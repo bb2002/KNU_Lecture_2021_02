@@ -18,7 +18,7 @@ int main() {
 
 		// 부호 찾기
 		char calcFun = '+';
-		for (int i = 0; i < exp.length(); ++i) {
+		for (int i = 1; i < exp.length(); ++i) {
 			char a = exp[i];
 			if (a < 48 || a > 57) {
 				calcFun = a;
@@ -26,14 +26,14 @@ int main() {
 			}
 		}
 
-		while (exp.find(calcFun) != -1) {
+		while (exp.substr(1, exp.length()).find(calcFun) != -1) {
 			std::string lts;
 			std::string rts;
 			bool ltsIn = true;
 			int lastIdx = -1;
 
 			for (int i = 0; i < exp.length(); ++i) {
-				if (exp[i] == calcFun) {
+				if (!(i == 0 && exp[0] == '-') && exp[i] == calcFun) {
 					if (ltsIn) {
 						ltsIn = false;
 					}
