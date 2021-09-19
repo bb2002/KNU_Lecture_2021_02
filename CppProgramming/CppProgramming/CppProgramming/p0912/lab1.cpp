@@ -6,7 +6,7 @@
 int generateNumber() {
 	while (true) {
 		srand(time(NULL));
-		int data = rand() % 899 + 100;
+		int data = /*rand() % 899 + 100*/753;
 		int rvData = data;
 		int dataSeg[3] = { 0,0,0 };
 
