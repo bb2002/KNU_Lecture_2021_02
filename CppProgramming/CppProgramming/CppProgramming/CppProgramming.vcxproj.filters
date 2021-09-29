@@ -22,8 +22,13 @@
     <Filter Include="소스 파일\p0916">
       <UniqueIdentifier>{78a5a23b-4687-4f73-8c73-9c07af74f355}</UniqueIdentifier>
     </Filter>
+<<<<<<< HEAD
     <Filter Include="소스 파일\p0926">
       <UniqueIdentifier>{666f7e5d-1545-4862-a79d-3805a63fd276}</UniqueIdentifier>
+=======
+    <Filter Include="소스 파일\p0922">
+      <UniqueIdentifier>{0dc0bf02-82c1-4125-b5c2-16ce32182905}</UniqueIdentifier>
+>>>>>>> 0d7131a11771ab162f6828fddcc3e0594431dedc
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -45,6 +50,7 @@
     <ClCompile Include="p0916\lab1.cpp">
       <Filter>소스 파일\p0916</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="p0926\1_assigning_value_pointer.cpp">
       <Filter>소스 파일\p0926</Filter>
     </ClCompile>
@@ -86,6 +92,16 @@
     </ClCompile>
     <ClCompile Include="14_reference_fun_case5.cpp">
       <Filter>소스 파일\p0926</Filter>
+=======
+    <ClCompile Include="p0922\lab1-1.cpp">
+      <Filter>소스 파일\p0922</Filter>
+    </ClCompile>
+    <ClCompile Include="p0922\lab1-2.cpp">
+      <Filter>소스 파일\p0922</Filter>
+    </ClCompile>
+    <ClCompile Include="p0922\lab1-3.cpp">
+      <Filter>소스 파일\p0922</Filter>
+>>>>>>> 0d7131a11771ab162f6828fddcc3e0594431dedc
     </ClCompile>
   </ItemGroup>
 </Project>
