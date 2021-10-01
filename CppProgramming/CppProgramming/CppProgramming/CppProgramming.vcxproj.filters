@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\p0930">
       <UniqueIdentifier>{920e04b7-7b15-47b6-8dd6-e31757c883f3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1001">
+      <UniqueIdentifier>{051d0e18-c600-4a4a-b084-a42100ea802c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -113,6 +116,39 @@
     </ClCompile>
     <ClCompile Include="p0930\VendingMachine.cpp">
       <Filter>소스 파일\p0930</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\01_ctype_malloc.c">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\02_dynamic_malloc.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\03_dynamic_malloc.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\04_struct.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\05_object_class.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\06_constructor.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\07_constructor.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\08_param_constructor.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\09_copy_constructor.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\10_destructor.cpp">
+      <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1001\11_destructor.cpp">
+      <Filter>소스 파일\p1001</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
