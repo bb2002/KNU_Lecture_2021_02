@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\p1001">
       <UniqueIdentifier>{051d0e18-c600-4a4a-b084-a42100ea802c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1007">
+      <UniqueIdentifier>{bb17b17c-db88-48f9-98c3-d71ded9d3de9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -149,6 +152,36 @@
     </ClCompile>
     <ClCompile Include="p1001\11_destructor.cpp">
       <Filter>소스 파일\p1001</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\01_function_overloading.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\02_copy_constructor.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\03_copy_constructor.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\04_initializer_list.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\05_static_variable.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\06_static_function.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\07_const_function.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\08_this.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\09_explict.cpp">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\10_mutable.cpp">
+      <Filter>소스 파일\p1007</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\p0929">
       <UniqueIdentifier>{09f081a6-8264-4e02-b87f-2ed145d555a5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1007">
+      <UniqueIdentifier>{338bd2bc-5fb1-407e-a16b-b5f6a330f871}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0911\lab1.c">
@@ -53,6 +56,18 @@
     </ClCompile>
     <ClCompile Include="p0929\lab4.c">
       <Filter>소스 파일\p0929</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\lab1.c">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\lab2.c">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\lab3.c">
+      <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1007\lab4.c">
+      <Filter>소스 파일\p1007</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
