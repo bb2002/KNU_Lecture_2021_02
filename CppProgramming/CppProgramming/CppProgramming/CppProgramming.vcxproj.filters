@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\p1007">
       <UniqueIdentifier>{bb17b17c-db88-48f9-98c3-d71ded9d3de9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1011">
+      <UniqueIdentifier>{041b84c2-b6fb-4b0f-b1ab-0e412daccaea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -182,6 +185,9 @@
     </ClCompile>
     <ClCompile Include="p1007\10_mutable.cpp">
       <Filter>소스 파일\p1007</Filter>
+    </ClCompile>
+    <ClCompile Include="p1011\TimingGame.cpp">
+      <Filter>소스 파일\p1011</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
