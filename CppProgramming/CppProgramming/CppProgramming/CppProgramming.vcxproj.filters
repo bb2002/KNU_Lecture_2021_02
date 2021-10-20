@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\p1015">
       <UniqueIdentifier>{af066acf-40dc-40f6-81b8-f8f6e121e78f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1021">
+      <UniqueIdentifier>{5b9cbec9-c3dd-4727-8939-b54f989ef316}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -194,6 +197,15 @@
     </ClCompile>
     <ClCompile Include="p1015\IntSet.cpp">
       <Filter>소스 파일\p1015</Filter>
+    </ClCompile>
+    <ClCompile Include="p1021\01_linked_list.cpp">
+      <Filter>소스 파일\p1021</Filter>
+    </ClCompile>
+    <ClCompile Include="p1021\02_linked_list.cpp">
+      <Filter>소스 파일\p1021</Filter>
+    </ClCompile>
+    <ClCompile Include="p1021\03_node_linkedlist.cpp">
+      <Filter>소스 파일\p1021</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
