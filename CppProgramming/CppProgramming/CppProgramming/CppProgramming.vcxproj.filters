@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\p1021">
       <UniqueIdentifier>{5b9cbec9-c3dd-4727-8939-b54f989ef316}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\midterm">
+      <UniqueIdentifier>{8f86284d-3edd-48ee-a136-2ad7151abaf0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -206,6 +209,12 @@
     </ClCompile>
     <ClCompile Include="p1021\03_node_linkedlist.cpp">
       <Filter>소스 파일\p1021</Filter>
+    </ClCompile>
+    <ClCompile Include="midterm\01_LinkedList.cpp">
+      <Filter>소스 파일\midterm</Filter>
+    </ClCompile>
+    <ClCompile Include="midterm\Point.cpp">
+      <Filter>소스 파일\midterm</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -38,6 +38,11 @@ public:
 	IntSet(int* arr, int n);
 	~IntSet() { this->clear(); }
 
+	bool IntSet::find(int val)
+	{
+		return false;
+	}
+
 	bool find(int val) const;
 	int size() const { return this->mSize; }
 	IntElement* getElements() const { return this->mElement; }
