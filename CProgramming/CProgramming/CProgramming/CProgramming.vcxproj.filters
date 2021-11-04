@@ -21,5 +21,8 @@
     <ClCompile Include="0929_Test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1103_StringStudy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
