@@ -28,6 +28,12 @@
     <Filter Include="소스 파일\p1016">
       <UniqueIdentifier>{071f1297-ed0a-4ebb-a77b-b8377dd8eb07}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1029">
+      <UniqueIdentifier>{0ffc43bf-0cbb-4d1e-ab49-92c5a823fe20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\p1106">
+      <UniqueIdentifier>{1ed46c82-6a0b-45c1-af70-796b28e0fa34}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0911\lab1.c">
@@ -80,6 +86,24 @@
     </ClCompile>
     <ClCompile Include="p1016\lab9.c">
       <Filter>소스 파일\p1016</Filter>
+    </ClCompile>
+    <ClCompile Include="p1029\lab3.c">
+      <Filter>소스 파일\p1029</Filter>
+    </ClCompile>
+    <ClCompile Include="p1029\lab7.c">
+      <Filter>소스 파일\p1029</Filter>
+    </ClCompile>
+    <ClCompile Include="p1029\lab9.c">
+      <Filter>소스 파일\p1029</Filter>
+    </ClCompile>
+    <ClCompile Include="p1106\lab2.c">
+      <Filter>소스 파일\p1106</Filter>
+    </ClCompile>
+    <ClCompile Include="p1106\lab7.c">
+      <Filter>소스 파일\p1106</Filter>
+    </ClCompile>
+    <ClCompile Include="p1106\lab8.c">
+      <Filter>소스 파일\p1106</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

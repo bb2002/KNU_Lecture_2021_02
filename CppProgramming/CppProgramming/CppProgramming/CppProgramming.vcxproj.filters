@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\p1103">
       <UniqueIdentifier>{41afdded-1c0a-4453-bcb5-43388aa549d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1106">
+      <UniqueIdentifier>{076c09ac-5c45-4c76-9606-59f2604127ad}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -243,8 +246,8 @@
     <ClCompile Include="p1103\08_Private_Inher.cpp">
       <Filter>소스 파일\p1103</Filter>
     </ClCompile>
-    <ClCompile Include="lab1.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="p1106\lab1.cpp">
+      <Filter>소스 파일\p1106</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

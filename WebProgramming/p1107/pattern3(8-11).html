@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            width: 960px;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+        #menu {
+            width: 260px;
+            float: left;
+        }
+        #section {
+            width: 700px;
+            float: right;
+        }
+        li {
+            list-style: none;
+        }
+
+        @media screen and (max-width: 767px) {
+            body {
+                width: auto;
+            }
+            #menu {
+                width: auto;
+                float: none;
+            }
+            #section {
+                width: auto;
+                float: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="section">
+        <h1>Lorem ipsum dolor</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus nulla dolor voluptatem explicabo quos velit magnam ullam odio veniam, tempora temporibus quas repellat earum delectus, impedit facere voluptatum aliquam hic.</p>
+    </div>
+    <div id="menu">
+        <ul>
+            <li>메뉴 A</li>
+            <li>메뉴 B</li>
+            <li>메뉴 C</li>
+        </ul>
+    </div>
+</body>
+</html>

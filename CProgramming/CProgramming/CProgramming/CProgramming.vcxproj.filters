@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\homework">
+      <UniqueIdentifier>{ca37445d-4dc0-4f4b-ab10-4d11900b8eb2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0925_Calculator.c">
@@ -23,6 +26,12 @@
     </ClCompile>
     <ClCompile Include="1103_StringStudy.c">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="homework\clawcrane_game_skeleton.c">
+      <Filter>소스 파일\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="homework\hypotenuse_skeleton.c">
+      <Filter>소스 파일\homework</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -25,7 +25,32 @@ public:
 	}
 
 	void fight(BaseUnit& other) {
-		
+		if (this->isAlive) {
+			cout << this->unitName << " attack" << endl;
+
+			other.getAttack(*this);
+			if (!other.isAlive) {
+				cout << other.unitName << " die" << endl;
+			}
+		}
+		else {
+			cout << this->unitName << " not alive" << endl;
+		}
+		if(other.hp != 0) cout << other.unitName << "'s hp: " << other.hp << endl;
+
+		if (other.isAlive) {
+			cout << other.unitName << " attack" << endl;
+
+			this->getAttack(other);
+			if (!this->isAlive) {
+				cout << this->unitName << " die" << endl;
+			}
+		}
+		else {
+			cout << other.unitName << " not alive" << endl;
+		}
+		if (this->hp != 0)  cout << this->unitName << "'s hp: " << this->hp << endl;
+		cout << endl;
 	}
 
 	inline int attack() const {
