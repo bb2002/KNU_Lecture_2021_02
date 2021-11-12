@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\p1106">
       <UniqueIdentifier>{076c09ac-5c45-4c76-9606-59f2604127ad}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1112">
+      <UniqueIdentifier>{1f0450c2-199b-454d-8a29-e4ac5a9f3255}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -248,6 +251,33 @@
     </ClCompile>
     <ClCompile Include="p1106\lab1.cpp">
       <Filter>소스 파일\p1106</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\01_Overriding.cpp">
+      <Filter>소스 파일\p1112</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\02_Overriding.cpp">
+      <Filter>소스 파일\p1112</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\03_Overriding.cpp">
+      <Filter>소스 파일\p1112</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\04_Overriding.cpp">
+      <Filter>소스 파일\p1112</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\05_StaticCast.cpp">
+      <Filter>소스 파일\p1112</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\06_DynamicCast.cpp">
+      <Filter>소스 파일\p1112</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\07_DoublePointer.cpp">
+      <Filter>소스 파일\p1112</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\08_Virtual.cpp">
+      <Filter>소스 파일\p1112</Filter>
+    </ClCompile>
+    <ClCompile Include="p1112\09_Reference.cpp">
+      <Filter>소스 파일\p1112</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,0 +1,22 @@
+<script>
+    var date = new Date()
+    var hours = date.getHours()
+
+    if(hours < 5) {
+        alert("잠을 자렴")
+    } else {
+        if(hours < 9) {
+            alert("출근 ㄱㄱ")
+        } else {
+            if(hours < 12) {
+                alert("딍굴딍굴")
+            } else {
+                if(hours < 14) {
+                    alert("식사 ㄱㄱ")
+                } else {
+                    alert("여러가지 업무 수행 중")
+                }
+            }
+        }
+    }
+</script>
