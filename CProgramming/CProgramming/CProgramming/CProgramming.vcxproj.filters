@@ -16,22 +16,37 @@
     <Filter Include="소스 파일\homework">
       <UniqueIdentifier>{ca37445d-4dc0-4f4b-ab10-4d11900b8eb2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1118">
+      <UniqueIdentifier>{02adf0c9-d57b-4898-b4fa-b95c63306c89}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0925_Calculator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="0929_Test.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1103_StringStudy.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="homework\clawcrane_game_skeleton.c">
       <Filter>소스 파일\homework</Filter>
     </ClCompile>
     <ClCompile Include="homework\hypotenuse_skeleton.c">
       <Filter>소스 파일\homework</Filter>
+    </ClCompile>
+    <ClCompile Include="p1118\file_io.c">
+      <Filter>소스 파일\p1118</Filter>
+    </ClCompile>
+    <ClCompile Include="p1118\file_getputs.c">
+      <Filter>소스 파일\p1118</Filter>
+    </ClCompile>
+    <ClCompile Include="p1118\file_example1.c">
+      <Filter>소스 파일\p1118</Filter>
+    </ClCompile>
+    <ClCompile Include="p1118\bin_write.c">
+      <Filter>소스 파일\p1118</Filter>
+    </ClCompile>
+    <ClCompile Include="p1118\bin_read.c">
+      <Filter>소스 파일\p1118</Filter>
+    </ClCompile>
+    <ClCompile Include="p1118\fseek.c">
+      <Filter>소스 파일\p1118</Filter>
+    </ClCompile>
+    <ClCompile Include="p1118\fseek2.c">
+      <Filter>소스 파일\p1118</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
