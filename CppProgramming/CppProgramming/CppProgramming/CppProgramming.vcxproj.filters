@@ -67,6 +67,12 @@
     <Filter Include="소스 파일\p1118">
       <UniqueIdentifier>{b075d075-bdf5-4acf-b90e-efc7c9f791e7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1124">
+      <UniqueIdentifier>{7b60d019-a7c4-464c-8c07-61b95d09be8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\p1125">
+      <UniqueIdentifier>{d92918d5-1063-49fe-b852-7d51d0b69739}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -317,6 +323,30 @@
     </ClCompile>
     <ClCompile Include="p1118\10_multiple_constructor_param.cpp">
       <Filter>소스 파일\p1118</Filter>
+    </ClCompile>
+    <ClCompile Include="p1124\lab1.cpp">
+      <Filter>소스 파일\p1124</Filter>
+    </ClCompile>
+    <ClCompile Include="p1125\01_Queue.cpp">
+      <Filter>소스 파일\p1125</Filter>
+    </ClCompile>
+    <ClCompile Include="p1125\02_Template.cpp">
+      <Filter>소스 파일\p1125</Filter>
+    </ClCompile>
+    <ClCompile Include="p1125\03_Template.cpp">
+      <Filter>소스 파일\p1125</Filter>
+    </ClCompile>
+    <ClCompile Include="p1125\04_Template_Queue.cpp">
+      <Filter>소스 파일\p1125</Filter>
+    </ClCompile>
+    <ClCompile Include="p1125\05_Template_Special.cpp">
+      <Filter>소스 파일\p1125</Filter>
+    </ClCompile>
+    <ClCompile Include="p1125\06_Template_Special.cpp">
+      <Filter>소스 파일\p1125</Filter>
+    </ClCompile>
+    <ClCompile Include="p1125\07_Template_Speical.cpp">
+      <Filter>소스 파일\p1125</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

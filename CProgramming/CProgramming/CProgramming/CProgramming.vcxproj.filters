@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\p1118">
       <UniqueIdentifier>{02adf0c9-d57b-4898-b4fa-b95c63306c89}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1124">
+      <UniqueIdentifier>{e0ef8a25-bb81-458b-8890-4a6ceb21419c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="homework\clawcrane_game_skeleton.c">
@@ -48,5 +51,25 @@
     <ClCompile Include="p1118\fseek2.c">
       <Filter>소스 파일\p1118</Filter>
     </ClCompile>
+    <ClCompile Include="malloctest.c">
+      <Filter>소스 파일\p1124</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc2.c">
+      <Filter>소스 파일\p1124</Filter>
+    </ClCompile>
+    <ClCompile Include="macro.c">
+      <Filter>소스 파일\p1124</Filter>
+    </ClCompile>
+    <ClCompile Include="multi-file.c">
+      <Filter>소스 파일\p1124</Filter>
+    </ClCompile>
+    <ClCompile Include="power.c">
+      <Filter>소스 파일\p1124</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="power.h">
+      <Filter>소스 파일\p1124</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
