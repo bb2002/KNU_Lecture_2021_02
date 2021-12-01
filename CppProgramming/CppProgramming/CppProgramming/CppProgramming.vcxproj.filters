@@ -73,6 +73,12 @@
     <Filter Include="소스 파일\p1125">
       <UniqueIdentifier>{d92918d5-1063-49fe-b852-7d51d0b69739}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1129">
+      <UniqueIdentifier>{f7ae988a-00b9-426d-a265-c5f8037482c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\p1201">
+      <UniqueIdentifier>{2d525f59-29f7-4606-a90b-fca1be6c7570}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -347,6 +353,42 @@
     </ClCompile>
     <ClCompile Include="p1125\07_Template_Speical.cpp">
       <Filter>소스 파일\p1125</Filter>
+    </ClCompile>
+    <ClCompile Include="p1129\lab1.cpp">
+      <Filter>소스 파일\p1129</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\01_FunctionPointer.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\02_FunctionPointer.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\03_FunctionPointerArray.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\04_FunctionPointer.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\05_FunctionPointer.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\06_Functor.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\07_NontypeTemplateArg.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\08_NonTypeTemplateArg.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\09_DefaultTemplateParam.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\10_VariadicTemplate.cpp">
+      <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1201\11_VariadicTemplate.cpp">
+      <Filter>소스 파일\p1201</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
