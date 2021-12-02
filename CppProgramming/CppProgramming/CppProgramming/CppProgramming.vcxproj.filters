@@ -79,6 +79,9 @@
     <Filter Include="소스 파일\p1201">
       <UniqueIdentifier>{2d525f59-29f7-4606-a90b-fca1be6c7570}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\p1202">
+      <UniqueIdentifier>{ca1cf66b-e095-4ee3-a520-86569f205518}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p0903\lab2.cpp">
@@ -389,6 +392,9 @@
     </ClCompile>
     <ClCompile Include="p1201\11_VariadicTemplate.cpp">
       <Filter>소스 파일\p1201</Filter>
+    </ClCompile>
+    <ClCompile Include="p1202\lab1.cpp">
+      <Filter>소스 파일\p1202</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
